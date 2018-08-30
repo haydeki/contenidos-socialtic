@@ -36,7 +36,7 @@ Siendo así, ¿es posible navegar de manera más segura y privada en internet?  
 
 Privacy Badger bloquea anunciantes y otros rastreadores de terceros, evitando que sepan desde donde navegas y qué páginas visitas en la web. Si un anunciante parece rastrearte sin tu permiso a través de varios sitios web, Privacy Badger bloquea al anunciante automáticamente para que no cargue más contenido en tu navegador. Para el anunciante, es como si de repente hubieras desaparecido.
 
-*Disponible para Firefox, Chrome y Opera.*	https://www.eff.org/es/privacybadger
+*Disponible para Firefox, Chrome y Opera.*	[https://www.eff.org/es/privacybadger](https://www.eff.org/es/privacybadger)
 
 ### Bloquear anuncios y rastreadores
 **uBlock Origin**
@@ -47,7 +47,7 @@ Privacy Badger bloquea anunciantes y otros rastreadores de terceros, evitando qu
 
 Usualmente uBlock Origin tiene la fama de ser un bloqueador de anuncios, sin embargo en realidad es un “bloqueador de amplio espectro”, que al igual que Privacy Badger se encarga no solo de bloquear anuncios, si no también rastreadores de terceros y sitios que han sido clasificados como malware (es decir, software maliciosos que intentan infectar o atacar a tus equipos).
 
-*Disponible para Firefox, Chrome, Safari y Microsoft Edge.*	https://github.com/gorhill/uBlock/
+*Disponible para Firefox, Chrome, Safari y Microsoft Edge.*	[https://github.com/gorhill/uBlock/](https://github.com/gorhill/uBlock/)
 
 Aunque a grandes rasgos pareciera que Privacy Badger y uBlock Origin hacen lo mismo, la verdad es que no, ambos funcionan internamente de manera distinta, por lo que al juntarlos hacen un buen “combo bloqueador”.
 
@@ -60,7 +60,7 @@ Aunque a grandes rasgos pareciera que Privacy Badger y uBlock Origin hacen lo mi
 
 HTTPS Everywhere surge de la necesidad de que la información viaje de manera segura y cifrada, actualmente el uso de HTTPS (un  protocolo de comunicación seguro) ha incrementado, sin embargo no todos los sitios lo utilizan de manera apropiada, por lo que HTTPS Everywhere forza a que los sitios cifren la información de manera correcta, así la información siempre tendrá una pequeña “cubierta” que la protege incluso cuando el sitio por sí mismo no lo hace.
 
-*Disponible para Firefox, Chrome y Opera.*	https://www.eff.org/https-everywhere
+*Disponible para Firefox, Chrome y Opera.*	[https://www.eff.org/https-everywhere](https://www.eff.org/https-everywhere)
 
 ### Navega de forma segura con una VPN
 **TunnelBear**
@@ -77,7 +77,7 @@ TunnelBear nos permite tener una pequeña VPN (Red Virtual Privada en español),
 
 Basándonos en la imagen, físicamente la persona que está conectada se encuentra en Canadá, sin embargo utiliza una VPN desde Canadá hasta Estados Unidos, por lo que toda su información que viaja hacia Internet pareciera que sale desde Estados Unidos y no de Canadá.
 
-**Disponible para Chrome y Opera.** https://www.tunnelbear.com
+**Disponible para Chrome y Opera.** [https://www.tunnelbear.com](https://www.tunnelbear.com)
 
 ### Bloquea elementos no confiables de un sitio web
 **NoScript / ScriptSafe**
@@ -88,15 +88,22 @@ Basándonos en la imagen, físicamente la persona que está conectada se encuent
 
 NoScript bloquea la ejecución de código Javascript, Java, Flash, Silverlight y otros tipos de scripts en tu navegador, esto sirve para prevenir que se ejecuten acciones que no queremos en nuestro navegador, (por ejemplo, Facebook tiene un script javascript que actualiza constantemente tu muro) conforme lo vamos utilizando podemos ir añadiendo sitios de confianza a una lista para que estos se ejecuten con plena confianza.
 
-*NoScript, disponible para Firefox.* https://noscript.net/
+*NoScript, disponible para Firefox.* [https://noscript.net/](https://noscript.net/)
 
 <p align="center">
   <img width="150" alt="./images/scriptsafe_mini.png" src="./images/scriptsafe_mini.png"/>
 </p>
 
+<<<<<<< HEAD:Extensiones-navegador/README.md
+=======
+<p align="center">
+  <img width="150" alt="./images/scriptsafe_mini.png" src="./images/scriptsafe_mini.png"/>
+</p>
+
+>>>>>>> 7c84dd62890a1ec060fb799f4b79deff027d8094:Extensiones-navegador/README.md
 Dado que NoScript se encuentra solamente disponible para Firefox, existe una alternativa llamada **ScriptSafe**, al igual que NoScript, previene que se ejecuten elementos en nuestro navegador y nos permite una lista de elementos y sitios de confianza.
 
-*ScriptSafe, disponible para Chrome y Opera.* https://github.com/andryou/scriptsafe
+*ScriptSafe, disponible para Chrome y Opera.* [https://github.com/andryou/scriptsafe](https://github.com/andryou/scriptsafe)
 
 ---
 
