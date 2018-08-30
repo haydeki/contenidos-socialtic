@@ -94,6 +94,13 @@ NoScript bloquea la ejecución de código Javascript, Java, Flash, Silverlight y
   <img width="150" alt="./images/scriptsafe_mini.png" src="./images/scriptsafe_mini.png"/>
 </p>
 
+<<<<<<< HEAD:Extensiones-navegador/README.md
+=======
+<p align="center">
+  <img width="150" alt="./images/scriptsafe_mini.png" src="./images/scriptsafe_mini.png"/>
+</p>
+
+>>>>>>> 7c84dd62890a1ec060fb799f4b79deff027d8094:Extensiones-navegador/README.md
 Dado que NoScript se encuentra solamente disponible para Firefox, existe una alternativa llamada **ScriptSafe**, al igual que NoScript, previene que se ejecuten elementos en nuestro navegador y nos permite una lista de elementos y sitios de confianza.
 
 *ScriptSafe, disponible para Chrome y Opera.* [https://github.com/andryou/scriptsafe](https://github.com/andryou/scriptsafe)
